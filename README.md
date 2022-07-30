@@ -13,15 +13,10 @@
 #   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IllTamer&show_icons=true"></p>
 
-**ME**
+**ABOUT**
 
 你好陌生人，我是 IllTamer，一名
 - Java Developer
 - Minecraft 社区开发者
 - 兼职 BiliBili up 主
 - 梦想成为架构师的 2024 届应届生
-
-
-**Essay** 
-
-Talk is esay, show me the code.
