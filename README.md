@@ -1,4 +1,4 @@
-![background](https://user-images.githubusercontent.com/78360471/181889595-6fac87b6-7b63-4360-a246-d4d5bd7b76de.jpg)
+![background](/background.jpg)
 
 <h3 align="center">#混沌中立的浪漫主义者#</h3>
 
