@@ -3,7 +3,7 @@
 <h3 align="center">#混沌中立的浪漫主义者#</h3>
 
 <p align="center">
-  <a target="_blank" href="http://www.zip1mask.top">Website</a> •
+  <a target="_blank" href="http://www.illtamer.com">Website</a> •
   <a target="_blank" href="https://api.vvhan.com/api/qqCard?qq=765743073">QQ</a> •
   <a target="_blank" href="mailto:765743073@qq.com">Email</a> •
   <a target="_blank" href="https://space.bilibili.com/19383984">Bilibili</a> •
@@ -11,7 +11,15 @@
 </p>
 
 #   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IllTamer&show_icons=true"></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IllTamer&style=plastic&color=brightgreen"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IllTamer&show_icons=true" style="height: 150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllTamer&layout=compact" style="height: 150px"/>
+</p>
 
 **ABOUT**
 
