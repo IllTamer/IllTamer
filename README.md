@@ -5,7 +5,7 @@
 <p align="center">
   <a target="_blank" href="http://www.illtamer.com">Website</a> •
   <a target="_blank" href="https://api.vvhan.com/api/qqCard?qq=765743073">QQ</a> •
-  <a target="_blank" href="mailto:765743073@qq.com">Email</a> •
+  <a target="_blank" href="mailto:mail@illtamer.com">Email</a> •
   <a target="_blank" href="https://space.bilibili.com/19383984">Bilibili</a> •
   <a target="_blank" href="https://gitee.com/IllTamer_Gitee">Gitee</a>
 </p>
