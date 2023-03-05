@@ -1,11 +1,11 @@
-![background](/background.jpg)
+![background](/background.png)
 
-<h3 align="center">#混沌中立的浪漫主义者#</h3>
+<h3 align="center">#CHAOTIC-NEUTRAL-ROMANTICIST#</h3>
 
 <p align="center">
+  <a target="_blank" href="mailto:mail@illtamer.com">Email</a> •
   <a target="_blank" href="http://www.illtamer.com">Website</a> •
   <a target="_blank" href="https://api.vvhan.com/api/qqCard?qq=765743073">QQ</a> •
-  <a target="_blank" href="mailto:mail@illtamer.com">Email</a> •
   <a target="_blank" href="https://space.bilibili.com/19383984">Bilibili</a> •
   <a target="_blank" href="https://gitee.com/IllTamer_Gitee">Gitee</a>
 </p>
@@ -17,14 +17,24 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IllTamer&show_icons=true" style="height: 150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllTamer&layout=compact" style="height: 150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IllTamer&theme=github&border=61dafb&hide_border=true" style="height: 175px">
 </p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IllTamer&theme=flag_india" style="height: 175px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IllTamer&show_icons=true" style="height: 150px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IllTamer&theme=flag_india" style="height: 175px"/>
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=IllTamer&theme=github" style="height: 200px"/>
+</p>
+
+#   
 
 **ABOUT**
 
-你好陌生人，我是 IllTamer，一名
-- Java Developer
-- Minecraft 社区开发者
-- 兼职 BiliBili up 主
-- 梦想成为架构师的 2024 届应届生
+Hey there, I'm IllTamer, a
+- `Java`, `Go` & `Typescript` Developer
+- Minecraft Community Developer
+- Amateur video vlogger
+- Class of 2024 who dream of becoming an architect
+
