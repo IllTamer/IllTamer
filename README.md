@@ -1,6 +1,7 @@
 ![background](/background.png)
 
-<h3 align="center">#CHAOTIC-NEUTRAL-ROMANTICIST#</h3>
+
+<h3 align="center">#Talk is cheap, show me the code#</h3>
 
 <p align="center">
   <a target="_blank" href="mailto:mail@illtamer.com">Email</a> •
@@ -17,15 +18,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IllTamer&theme=github&border=61dafb&hide_border=true" style="height: 150px">
-</p>
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IllTamer&theme=flag_india" style="height: 140px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=IllTamer&show_icons=true" style="height: 140px">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IllTamer&theme=flag_india" style="height: 140px"/>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=IllTamer&theme=github" style="height: 200px"/>
 </p>
 
 #   
@@ -33,8 +28,9 @@
 **ABOUT**
 
 Hey there, I'm IllTamer, a
-- `Java`, `Go` & `Typescript` Developer
-- Minecraft Community Developer
+- Open source enthusiast
+- A backend developer who loves working with `java`, `golang` and `typescript`
+- A member of the MCBBS community
 - Amateur video vlogger
-- Class of 2024 who dream of becoming an architect
+
 
