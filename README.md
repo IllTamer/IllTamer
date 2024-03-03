@@ -26,11 +26,3 @@
 #   
 
 **ABOUT**
-
-Hey there, I'm IllTamer, a
-- Open source enthusiast
-- A backend developer who loves working with `java`, `golang` and `typescript`
-- A member of the MCBBS community
-- Amateur video vlogger
-
-
