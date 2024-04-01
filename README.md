@@ -25,4 +25,8 @@
 
 #   
 
-**ABOUT**
+### Open source community project
+- [RocketChat RSS APP](https://github.com/IUnlimit/rocketchat-app-rss)
+- [MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide)
+
+### About
