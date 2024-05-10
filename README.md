@@ -28,11 +28,20 @@
 
 #   
 
-### Sth you may be interested
+### My other fun little projects
+
+> The projects marked below will be maintained by me for a long time. So don't worry, just try it!
+
+<div align="center">
+
+项目(Project) | 简介(Introductiom) | 开发语言(Langurage)
+ :-: | :-: | :-:
+[nonebot-adapter-rocketchat](https://github.com/IUnlimit/nonebot-adapter-rocketchat) | Rocket.Chat adapter for nonebot2. nonebot2 的 Rocket.Chat 适配器 | Python 
+[telegram-bot-disrecall](https://github.com/IUnlimit/telegram-bot-disrecall) | A telegram bot that prevents messages from being retracted. 一个防止消息被撤回 / 失效的 Telegram 机器人，可归档与便捷查询各种消息类型，支持恢复被删除的消息，并配有简单的鉴权 | Go
+[rocketchat-app-rss](https://github.com/IUnlimit/rocketchat-app-rss) | An app for RSS feed. Rocket.Chat RSS 消息订阅 App | TypeScript 
+
+</div>
 
 <div align="center">
   <a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=IllTamer&style=plastic&color=brightgreen"></a>
 </div>
-
-- [RocketChat RSS APP](https://github.com/IUnlimit/rocketchat-app-rss)
-- [MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide)
