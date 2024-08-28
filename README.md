@@ -38,7 +38,8 @@
  :-: | :-: | :-:
 [nonebot-adapter-rocketchat](https://github.com/IUnlimit/nonebot-adapter-rocketchat) | Rocket.Chat adapter for nonebot2. nonebot2 的 Rocket.Chat 适配器 | Python 
 [telegram-bot-disrecall](https://github.com/IUnlimit/telegram-bot-disrecall) | A telegram bot that prevents messages from being retracted. 一个防止消息被撤回 / 失效的 Telegram 机器人，可归档与便捷查询各种消息类型，支持恢复被删除的消息，并配有简单的鉴权 | Go
-[rocketchat-app-rss](https://github.com/IUnlimit/rocketchat-app-rss) | An app for RSS feed. Rocket.Chat RSS 消息订阅 App | TypeScript 
+[rocketchat-app-rss](https://github.com/IUnlimit/rocketchat-app-rss) | An app for RSS feed. Rocket.Chat RSS 消息订阅 App | TypeScript
+[minecraft-view-generator](https://github.com/IUnlimit/minecraft-view-generator) | This project is an http server used to generate Minecraft view files for other services. 该项目是一个 http 服务器，用以为其他服务生成 Minecraft 视图文件 | Go
 
 </div>
 
